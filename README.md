@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">-full stack data & analytics training student at @Pod Academy</p>
+<p align="left">-full stack data & analytics training student at @Pod Academy. <br>
+  -Software engineering student at @Unicesumar</p>
 
 ###
 
