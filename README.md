@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Alisson+Junio+👋;Python+Backend+Developer;Data+Engineering+Student;5%2B+anos+em+Infraestrutura+de+TI" alt="Typing SVG" />
-  </a>
+  <h1>Olá, eu sou o Alisson Junio 👋</h1>
+  <h3>Python Backend Developer | Data Engineering Student | Infraestrutura de TI</h3>
 </div>
 
 <br/>
