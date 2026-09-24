@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Alisson+Junio+👋;Sênior+IT+Infra+%26+DevOps;Data+Engineering+Enthusiast;Python+Backend+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Alisson+Junio+👋;IT+Infra+%26+DevOps;Data+Engineering+Enthusiast;Python+Backend+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um profissional com forte bagagem sênior em **Infraestrutura de TI e DevOps**, atualmente consolidando minha transição e estudos avançados para as áreas de **Engenharia de Dados** e **Desenvolvimento Backend**. 
+Sou um profissional com forte bagagem em **Infraestrutura de TI e DevOps**, atualmente consolidando minha transição e estudos avançados para as áreas de **Engenharia de Dados** e **Desenvolvimento Backend**. 
 
 Meu maior diferencial é não apenas escrever o código, mas ter a visão completa da arquitetura da solução: desde a criação da API até a esteira de deploy (CI/CD), orquestração de contêineres (Docker) e sustentação da infraestrutura em Nuvem (AWS/OCI).
 
